@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+/* displays codes */
+.card {
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn {
+    margin-bottom: 10px;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
